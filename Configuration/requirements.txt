@@ -1,0 +1,33 @@
+# Core Deep Learning
+tensorflow==2.15.0
+keras==2.15.0
+
+# Computer Vision
+opencv-python==4.9.0.80
+Pillow==10.2.0
+
+# Data Processing
+numpy==1.26.3
+pandas==2.2.0
+scikit-learn==1.4.0
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.1
+
+# Web Interface (for app.py)
+flask==3.0.0
+werkzeug==3.0.1
+
+# Jupyter (for notebooks)
+jupyter==1.0.0
+ipykernel==6.29.0
+
+# Utilities
+tqdm==4.66.1
+python-dotenv==1.0.0
+
+# Model Export/Serving (optional)
+# tensorflow-serving-api==2.15.0
+# onnx==1.15.0
+# onnxruntime==1.16.3
