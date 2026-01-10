@@ -446,7 +446,7 @@ def main():
     print("=" * 70)
     
     # Configuration
-    DATA_DIR = 'data/DATASET'  # Update with your dataset path
+    DATA_DIR = '../data/raw/train' # Update with your dataset path
     IMG_SIZE = (224, 224)
     BATCH_SIZE = 32
     EPOCHS = 25
